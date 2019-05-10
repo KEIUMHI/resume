@@ -1,10 +1,12 @@
 ---
-title: The One
-subtitle: City of Zion
+title: 忆涵信息科技有限公司
+subtitle: 事业一部
 published: true
-url: 'http://matrix.wikia.com/wiki/Zion'
-startDate: 2199-09-19T00:00:00.000Z
-location: 'Zion, Earth'
+url: 
+startDate: 2019-02-25T00:00:00.000Z
+endDate: 2019-04-10
+location: '软件工程师'
 ---
 
-Engaged in cutthroat negotiations with The Architect. Secured the freedom of the human race. Squashed a particularly errant program in the Matrix source code.
+<p>工作概要：负责软件部署及人员培训</p>
+<p>收获：锻炼提升了我的自我学习能力和沟通能力；培养锻炼了我独立解决问题的能力；体会到软件行业的局限性。</p>

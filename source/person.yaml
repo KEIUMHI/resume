@@ -1,21 +1,22 @@
-name: Thomas A. Anderson
+name: 邢云飞
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: keiumhii@gmail.com
+phone: 13968803720
+location: 微信：KEIUMHI
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
+intro: 温州职业技术学院 · 软件与信息服务 
 #for Twitter cards:
-twitter: '@neo'
+twitter: 
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
-  - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+  - bootstrap简单布局
+  - 熟练使用ElementUI
+  - markdown
+  - GitHub基础操作
+  - 了解一些建站知识
+  - 熟悉sql语句
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  'GitHub：https://github.com/KEIUMHI': https://github.com/KEIUMHI
