@@ -1,10 +1,11 @@
 ---
-title: Software Programmer
-subtitle: MetaCortex
-url: http://matrix.wikia.com/wiki/MetaCortex
-startDate: 1996-09-13
-endDate: 1999-03-31
-location: Capitol City, USA
+title: 阿外楼酒店
+subtitle: 服务员
+url: 
+startDate: 2018-05-01
+endDate: 2018-06-01
+location: 
 ---
 
-Worked as a computer programmer for the MetaCortex software company. Had a social security number. Sold contraband programming and hacks under the alias Neo.
+<p>工作概要：负责给包厢客人服务</p>
+<p>收获：锻炼自己的胆量；</p>

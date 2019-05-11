@@ -2,9 +2,9 @@
 title: Vuejs
 subtitle: JTODO
 url: https://github.com/KEIUMHI/todo-list-test
-startDate: 1985-08-11
-endDate: 1989-05-31
-location: Capitol City, USA
+startDate: 2019-04-11
+endDate: 2019-04-12
+location: 
 ---
 
 <ul>

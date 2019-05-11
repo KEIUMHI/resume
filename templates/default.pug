@@ -17,7 +17,7 @@ body.bg-white.bg-light-gray-page.bg-white-p.dark-gray(class= process.env.NODE_EN
 
         if site.jobs > 0
           +section-title
-            +accent-link('Experience', '/experience')
+            +accent-link('实践经历/Experience', '/experience')
           +section
             - for (var i = 0; i < site.jobs; i++)
               - if (collections.experience[i])
@@ -25,7 +25,7 @@ body.bg-white.bg-light-gray-page.bg-white-p.dark-gray(class= process.env.NODE_EN
 
         if site.schools > 0
           +section-title
-            +accent-link('Education', '/education')
+            +section-title('技能/Skill', '/education')
           +section
             - for (var i = 0; i < site.schools; i++)
               - if (collections.education[i])
@@ -34,7 +34,7 @@ body.bg-white.bg-light-gray-page.bg-white-p.dark-gray(class= process.env.NODE_EN
         if person.proficiencies
           +section
             +left-column
-              +section-title('Proficiencies')
+              +section-title('其他/More')
             +right-column
               ul.cc2-ns.cg3-ns.cc2-p.cg3-p.pl0.mt3.mt0-ns.mt0-p.list-inside-ns.list-inside-p
                 each skill in person.proficiencies
@@ -46,4 +46,4 @@ body.bg-white.bg-light-gray-page.bg-white-p.dark-gray(class= process.env.NODE_EN
 
   if site.promolink
     footer.pb4.tc.dn.dn-p.db-page
-      p Made with #[+accent-link('Metalsmith Resume', 'https://github.com/lowmess/metalsmith-resume')] by #[+accent-link('@lowmess', 'https://github.com/lowmess/')]
+      //- p Made with #[+accent-link('Metalsmith Resume', 'https://github.com/lowmess/metalsmith-resume')] by #[+accent-link('@lowmess', 'https://github.com/lowmess/')]

@@ -4,7 +4,7 @@ email: keiumhii@gmail.com
 phone: 13968803720
 location: 微信：KEIUMHI
 # Header introduction / mission statement
-intro: 温州职业技术学院 · 软件与信息服务 
+intro: <p style="margin:0 0;">温州职业技术学院 · 软件与信息服务</p> <p style="margin:0 0;">男 | 1998.04</p> <p style="margin:0 0;"><a href="http://withhometown.com" style="text-decoration:none;color:#fff">WithHometown</a></p>
 #for Twitter cards:
 twitter: 
 # Removing all proficiencies will remove the section from the resume

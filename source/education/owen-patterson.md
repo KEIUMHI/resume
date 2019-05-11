@@ -2,9 +2,9 @@
 title: HTML/CSS
 subtitle: 简单布局
 url: https://github.com/KEIUMHI/MinimalistBlog
-startDate: 1985-08-11
-endDate: 1989-05-31
-location: Capitol City, USA
+startDate: 2019-04-13
+endDate: 2019-04-13
+location:
 ---
 
 <ul>

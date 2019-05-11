@@ -2,9 +2,9 @@
 title: ECMAScript(JS)
 subtitle: 表单验证
 url: https://github.com/KEIUMHI/from
-startDate: 1985-08-11
-endDate: 1989-05-31
-location: Capitol City, USA
+startDate: 2019-04-29
+endDate: 2019-04-30
+location: 
 ---
 
 <ul>

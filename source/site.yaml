@@ -11,7 +11,7 @@ jobs: 2
 # of educational experiences to show
 schools: 3
 # show 'References available' link in footer
-references: true
+references: false
 # Remove theme color on print
 printstyles: true
 # Show promo link under resume (you probably want to set this to false)
