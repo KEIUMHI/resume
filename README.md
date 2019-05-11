@@ -83,3 +83,10 @@ Contributions are welcome and encouraged:
 ***
 
 [1] For reference, this long-as-hell README is, like, almost five goddamn KBs.
+
+## 启动
+
+1. npm install
+2. npm run start
+3. npm run build 
+4. npm run pdf 
